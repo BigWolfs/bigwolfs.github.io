@@ -1,0 +1,20 @@
+title: Big Wolf's Deli Sandwiches
+name: /assets/img/logo.png
+logo: /assets/img/company-logo.png
+
+copyright: © 2016 Big Wolf's Deli Sandwiches. All Rights Reserved.
+address: 478 Dundas Street West, Oakville, ON L6H 6Y3
+
+email: info@bigwolfs.com
+phone: (289) 725-WOLF (9653)
+
+description: "At Big Wolf's Deli Sandwiches, we are committed to crafting mouthwatering deli sandwiches that are unsurpassed in taste, freshness, and distinction. We'll see you soon!"
+hours: "Open every day from 10am to 10pm"
+
+baseurl: ""
+url: "localhost"
+twitter: bigwolfsds
+facebook: bigwolfsds
+instagram: bigwolfsds
+
+markdown: kramdown

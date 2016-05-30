@@ -1,0 +1,53 @@
+<footer>
+  <div class="wrapper">
+    <center>
+      <a href="{{ site.baseurl }}/"><img height=90px src="{{ site.logo }}"/></a>
+    </center>
+    <br>
+    <div class="pure-g">
+
+      <!-- Left column -->
+      <div class="pure-u-1-2">
+        <ul style="list-style:none">
+         {% if site.facebook %}
+          <li>
+            <i class="fa fa-facebook-official"></i><a href="https://www.facebook.com/Big-Wolfs-Deli-Sandwiches-1637249369887615/?fref=ts"><small>{{ site.facebook }}</small></a>
+          </li>
+         {% endif %}
+
+         {% if site.instagram %}
+          <li>
+            <i class="fa fa-instagram"></i><a href="https://www.instagram.com/{{ site.instagram }}"><small>{{ site.instagram }}</small></a>
+          </li>
+         {% endif %}
+
+         {% if site.twitter %}
+          <li>
+            <i class="fa fa-twitter"></i><a href="https://www.twitter.com/{{ site.twitter }}"><small>{{ site.twitter }}</small></a>
+          </li>
+         {% endif %}
+       </ul>
+      </div>
+
+      <!-- Right column -->
+      <div class="pure-u-1-2">
+        <ul style="list-style:none">
+          <li><small>{{ site.description }}</small></li>
+          <li><i class="fa fa-clock-o"></i><small>{{ site.hours }}</small>
+        </ul>
+      </div>
+
+      <!-- Single column -->
+      <div class="pure-u-1-1">
+        <ul style="list-style:none">
+          <li><small>{{ site.title }}</small></li>
+          <li><i class="fa fa-envelope"></i><a href="mailto:{{ site.email }}"><small>{{ site.email }}</small></a></li>
+          <li><i class="fa fa-phone"></i><small>{{ site.phone }}</small></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <center>
+    <small>{{ site.copyright }}</small>
+  </center>
+</footer>

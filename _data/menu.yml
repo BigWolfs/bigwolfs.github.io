@@ -1,0 +1,140 @@
+meats:
+  - name: Smoked meat
+  - name: Pastrami
+  - name: Corned beef
+  - name: Roast beef
+  - name: Smoked turkey
+  - name: Beef salami
+
+mustards:
+  - name: Traditional
+  - name: Dijon
+  - name: Keen's hot mustard
+  - name: Jalapeño
+  - name: Honey
+
+proteins:
+  - name: Smoked meat
+  - name: Pastrami
+  - name: Corned beef
+  - name: Roast beef
+  - name: Turkey breast
+  - name: Smoked turkey
+  - name: Beef salami
+  - name: Pulled pork
+  - name: Black bean burger
+  - name: Veggie
+
+toppings:
+  - name: Lettuce
+  - name: Spinach
+  - name: Cucumber
+  - name: Tomato
+  - name: Pickles
+  - name: Sprouts
+  - name: Red onion
+  - name: Banana peppers
+  - name: Black olives
+  - name: Green olives
+  - name: Sundried tomato
+  - name: Roasted sweet peppers
+  - name: Artichoke hearts
+
+sauces:
+  - name: Garlic aioli
+  - name: Franks Red Hot
+  - name: Franks Buffalo Wing Hot
+  - name: Sriracha
+  - name: Ultimate sriracha
+  - name: Chipotle mayo
+  - name: Real ancho chipotle
+  - name: Creamy poblano avocado
+  - name: Teriyaki
+  - name: Thousand islands
+  - name: Traditional mustard
+  - name: Jalapeño mustard
+  - name: Dijon mustard
+  - name: Creamy horseradish
+  - name: Honey mustard
+  - name: Ketchup
+  - name: Mayo
+  - name: Italian dressing
+  - name: Creamy horseradish
+  - name: Kansas City BBQ
+  - name: St. Louis BBQ
+
+breads:
+  - name: Rye
+  - name: Marble rye
+  - name: French bread
+  - name: Kaiser
+  - name: Whole grain kaiser
+  - name: Vienna stick
+  - name: Portuguese bread
+  - name: Crusty bun
+  - name: Croissant
+  - name: Ciabatta
+
+cheese:
+  - name: Provolone
+  - name: Swiss
+  - name: Cheddar
+
+extras:
+  - name: Guacamole
+    price: $1.00
+  - name: Bacon
+    price: $1.00
+  - name: Gravy
+    price: $1.00
+
+sides:
+  - name: Coleslaw
+    small: $2.95
+    large: $5.95
+  - name: Potato salad
+    small: $2.95
+    large: $5.95
+  - name: Mashed potato
+    small: $2.95
+    large: $5.95
+  - name: Hash & mash
+    small: $5.95
+    large: $11.95
+  - name: Soup
+    large: $5.95
+  - name: Whole kosher pickle
+    price: $1.00
+
+kids:
+  - name: Jr. Wolf
+    description: Our jr. wolf sandwich is perfect for kids, or as a light snack! It comes with your choice of meat, cheese, and any toppings that you'd like! Served on a mini bun.
+  - name: Grilled cheese
+    description: Our signature grilled cheese is made with real Canadian cheddar, and Swiss cheese. Served on French bread.
+  - name: Mini meatball
+    description: Do you love meatballs? Try our miniature meatball sandwich! Served on a mini bun.
+
+chef:
+  - name: Buffalo Blue Grilled Chicken
+    description: Grilled Buffalo chicken topped with a blue cheese sauce. Served on a Portuguese bun with provolone cheese.
+
+  - name: Open-Faced Roast Beef with Mash & Gravy
+    description: Our open-faced roast beef sandwich comes with a side of mashed potatoes and gravy. Served on French bread with provolone cheese.
+
+  - name: Meatball Marinara
+    description: Beef meatballs in tomato sauce topped with fresh parmesan. Served on a Portuguese bun with provolone cheese.
+
+  - name: Pulled Pork
+    description: Served on a Portuguese Bun with French's fried onions.
+
+  - name: Beef Dip with Gravy
+    description: Roast beef delicately drizzled with gravy. Served on a Vienna stick with provolone cheese.
+
+  - name: Big Wolf's Reuben
+    description: Corned beef, sauerkraut, and Thousand Islands dressing. Served on marble rye with Swiss cheese.
+
+  - name: Smoked Turkey Poblano
+    description: Smoked turkey, spinach, tomato, cucumber, and sprouts with Big Wolf's avocado poblano dressing. Served on a Portuguese bun with provolone cheese.
+
+  - name: Black Bean Burger
+    description: Our black bean burger is a wholly vegetarian burger topped with spinach, tomato, cucumber, sprouts, guacamole, chunky salsa, and Big Wolf's avocado poblano dressing. Served on a white, or whole wheat Kaiser.
