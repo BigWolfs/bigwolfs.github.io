@@ -75,9 +75,7 @@ permalink: /menu/
   </div>
 
   <!-- Chef inspired sandwiches -->
-  <h2 class="menu-heading" style="font-size:32px">Chef inspired</h2>
-  <p>Each of our chef-inspired sandwiches ____.</p>
-
+  <h2 class="menu-heading" style="font-size:32px">Chef inspired sandwiches</h2>
   <ul style="list-style-type:none;margin:0px;padding:0px">
     {% for e in site.data.menu.chef %}
       <li>
